@@ -1,4 +1,4 @@
-package ie.atu.conlab1;
+package conlab1;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.GetMapping;
